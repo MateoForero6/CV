@@ -1,0 +1,24 @@
+#lola {
+  max-width: 30%;
+}
+
+body {
+  background-color: #EAF6F6;
+}
+
+h1 {
+  color: #54BAB9;
+}
+
+h3 {
+  color: #54BAB9
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #DCD7C9;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+}
